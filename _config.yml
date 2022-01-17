@@ -1,8 +1,0 @@
-locale          : "en-US"
-title           : "hongcom"
-title_separator : "-"
-subtitle        : portfolio
-name            : "hongcom"
-description     : "My portfolio"
-url             : "http://hongcom.github.io"
-baseurl         : ""
